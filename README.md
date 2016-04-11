@@ -1,6 +1,7 @@
-# PHP5.5 + Apache 
+# PHP5.6 + Apache 
 
-This modified DIY cartridge provides PHP 5.5.31 and fully free Apache configuration permission, which can be found in `conf` folder.
+This is a fork to modify from  initial installation the original specs given by laobubu in his openshift-php5.5-cgi-apache original recipe.
+
 
 ## Quick Start
 
