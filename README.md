@@ -1,7 +1,6 @@
 # PHP5.6 + Apache 
 
-This is a fork to modify from  initial installation the original specs given by laobubu in his openshift-php5.5-cgi-apache original recipe.
-
+This is a fork to modify the original specs given by laobubu in his openshift-php5.5-cgi-apache original recipe from initial installation.
 
 ## Quick Start
 
